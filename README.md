@@ -1,5 +1,5 @@
 ### Hi! My name is Djállen Fabrício, i'm 18yo
-I'm currently i'm studying at UFPB, in the state of Paraíba, Brazil. I'm studying  Datascience and Artificial Intelligence.
+I'm currently studying at UFPB, in the state of Paraíba, Brazil. I'm studying  Datascience and Artificial Intelligence.
 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/djzin0_)
 
