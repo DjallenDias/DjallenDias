@@ -8,7 +8,7 @@ I studied at the Royal Leamington Spa College, part of WCG.
 
 ![Djállen Fabrício](https://github-readme-stats.vercel.app/api?username=DjallenDias&show_icons=true&theme=transparent)
 
-## Languages i'm currently learning
+## Languages I'm currently learning
 <div style="display: inline_block"><br/>
     <img align="center" alt="Python" src= https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white/>
     <img align="center" alt="C" src= https://img.shields.io/badge/C-14354C?style=for-the-badge&logo=C&logoColor=white/>
