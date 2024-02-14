@@ -1,5 +1,5 @@
 ### Hi! My name is Djállen Fabrício, i'm 18yo
-I'm currently studying at UFPB, in the state of Paraíba, Brazil. I'm studying  Datascience and Artificial Intelligence, I went to England for an exchange, in 2023, i spent a month there to improve my english, i studied at the Royal Leamington Spa College, part of WCG.
+I'm currently studying at UFPB, in the state of Paraíba, Brazil. I'm studying  Datascience and Artificial Intelligence, I went to England for an exchange, in 2023, I spent a month there to improve my english, I studied at the Royal Leamington Spa College, part of WCG.
 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/djzin0_)
 
