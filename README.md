@@ -1,4 +1,4 @@
-### Hi! My name is Djállen Fabrício, i'm 18yo
+### Hi! My name is Djállen Fabrício, I'm 18yo
 I'm currently studying at UFPB, in the state of Paraíba, Brazil. I'm studying  Datascience and Artificial Intelligence.
 
 I went to England for an exchange, in 2023, I spent a month there to improve my english.
