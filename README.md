@@ -8,7 +8,7 @@ I studied at the Royal Leamington Spa College, part of WCG.
 ![Stats](https://github-readme-stats.vercel.app/api?username=DjallenDias&show_icons=false&theme=transparent&card_width=340)
 
 
-![Most Used Langs](https://github-readme-stats.vercel.app/api/top-langs?username=DjallenDias&locale=en&hide_title=false&layout=donut&langs_count=6&theme=transparent&order=2&hide=css,html,jupyter%20notebook&size_weight=1&count_weight=0)
+![Most Used Langs](https://github-readme-stats.vercel.app/api/top-langs?username=DjallenDias&locale=en&hide_title=false&layout=donut&langs_count=6&theme=transparent&order=2&hide=css,html,jupyter%20notebook&size_weight=0.5&count_weight=0.5)
 
 ## What I use
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
