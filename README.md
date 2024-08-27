@@ -12,10 +12,16 @@ I studied at the Royal Leamington Spa College, part of WCG.
 
 ## What I use
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/pypi/v/pandas.svg?label=Pandas)
+![Seaborn](https://img.shields.io/pypi/v/seaborn.svg?label=Seaborn)
+![Matplotlib](https://img.shields.io/pypi/v/matplotlib.svg?label=Matplotlib)
+![Sockets](https://img.shields.io/pypi/v/sockets.svg?label=Sockets)
+[![Threading](https://img.shields.io/badge/Python-Threading-blue.svg)](https://docs.python.org/3/library/threading.html)
+
+![C](https://img.shields.io/badge/C-14354C?style=for-the-badge&logo=C&logoColor=white)
 
 ## Languages I'm currently learning
 
-![C](https://img.shields.io/badge/C-14354C?style=for-the-badge&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-14354C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ## Social media
