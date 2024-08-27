@@ -21,4 +21,4 @@ I studied at the Royal Leamington Spa College, part of WCG.
 ## Social media
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/djzin0_)
 [![LinkedIn](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dj%C3%A1llen-fabr%C3%ADcio-125332234/)
-[![Gmail](https://img.shields.io/badge/gmail-D14852?style=for-the-badge&logo=gmail&logoColor=white)]([djallendias@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=djallen.20010@gmail.com&su=Send%20something&body=Hi,%20Djallen%20))
+[![Gmail](https://img.shields.io/badge/gmail-D14852?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=djallen.20010@gmail.com&su=Send%20something&body=Hi,%20Djallen%20)
