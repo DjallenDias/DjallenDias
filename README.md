@@ -33,4 +33,4 @@ I'm currently studying at UFPB, in the state of Paraíba, Brazil. I'm studying D
 
 ---
 
-![2](https://visitcount.itsvg.in/api?id=DjallenDias&icon=0&color=12&style=flat-square)
+![2](https://visitcount.itsvg.in/api?id=DjallenDias&icon=0&color=12)
