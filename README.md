@@ -18,7 +18,7 @@ I'm currently studying at UFPB, in the state of Paraíba, Brazil. I'm studying D
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=DjallenDias&theme=transparent&hide_border=false&hide_border=true)
 
-![Most Used](https://github-readme-stats.vercel.app/api/top-langs?username=DjallenDias&locale=en&hide_title=false&layout=donut&langs_count=6&theme=transparent&order=2&hide=css,html,jupyter%20notebook&hide_border=true)
+![Most Used](https://github-readme-stats.vercel.app/api/top-langs?username=DjallenDias&locale=en&hide_title=false&layout=donut&langs_count=6&theme=transparent&order=2&hide=css,html,jupyter%20notebook,qmake,makefile&hide_border=true)
 
 
 ## 🌐 Socials:
