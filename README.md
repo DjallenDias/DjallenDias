@@ -34,3 +34,5 @@ I'm currently studying at UFPB, in the state of Paraíba, Brazil. I'm studying D
 ---
 
 ![2](https://visitcount.itsvg.in/api?id=DjallenDias&icon=0&color=12)
+
+![](https://hit.yhype.me/github/profile?user_id=74122746)
